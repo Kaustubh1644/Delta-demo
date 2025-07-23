@@ -1,2 +1,2 @@
 # Delta-demo
-git-gitup practice
+doing git-gitup practice using delta course.
